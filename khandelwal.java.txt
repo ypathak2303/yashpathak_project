@@ -1,0 +1,5 @@
+le re lun ke 
+ye ra tera code 
+ye ra tera kaam 
+me ni kr ra job 
+system.out.println("resign")
